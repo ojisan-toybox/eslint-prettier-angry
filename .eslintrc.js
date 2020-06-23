@@ -5,9 +5,9 @@ module.exports = {
   },
   extends: [
     "./config.js",
-    "plugin:prettier/recommended",
-    "prettier/@typescript-eslint",
-    "prettier/react",
+    // "plugin:prettier/recommended",
+    // "prettier/@typescript-eslint",
+    // "prettier/react",
   ],
   parser: "@typescript-eslint/parser",
   parserOptions: {
